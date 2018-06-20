@@ -8,3 +8,4 @@ venv/
 .idea
 example.json
 Pipfile.*
+.settings
