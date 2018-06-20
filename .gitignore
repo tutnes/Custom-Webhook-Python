@@ -1,0 +1,10 @@
+log/**
+problems_received/*
+problems_sent/*
+*.back
+python_integration.py
+config.json
+venv/
+.idea
+example.json
+Pipfile.*
